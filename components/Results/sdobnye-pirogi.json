@@ -1,0 +1,62 @@
+{
+    "Сладкий пирог с вишней": [
+        "вишня, сахарная пудра",
+        "D:\\Projects and Documents\\Documents\\Projects\\Python Projects\\Parsing\\NashPir\\components\\Results\\images1\\pirog-s-vishnei-300x300.jpg",
+        "1000г",
+        "950р"
+    ],
+    "Сладкий пирог с клубникой": [
+        "клубника, сахарная пудра",
+        "D:\\Projects and Documents\\Documents\\Projects\\Python Projects\\Parsing\\NashPir\\components\\Results\\images1\\klubnika-300x300.jpg",
+        "1000г",
+        "900р"
+    ],
+    "Сладкий пирог с малиной": [
+        "малина, сахарная пудра",
+        "D:\\Projects and Documents\\Documents\\Projects\\Python Projects\\Parsing\\NashPir\\components\\Results\\images1\\malina-300x300.jpg",
+        "1000г",
+        "950р"
+    ],
+    "Сладкий пирог с ежевикой": [
+        "ежевика, сахарная пудра",
+        "D:\\Projects and Documents\\Documents\\Projects\\Python Projects\\Parsing\\NashPir\\components\\Results\\images1\\chernika-300x300.jpg",
+        "1000г",
+        "950р"
+    ],
+    "Сладкий пирог с ежевикой и малиной": [
+        "ежевика, малина, сахарная пудра",
+        "D:\\Projects and Documents\\Documents\\Projects\\Python Projects\\Parsing\\NashPir\\components\\Results\\images1\\chernika-300x300.jpg",
+        "1000г",
+        "950р"
+    ],
+    "Сладкий пирог с яблоком и ежевикой": [
+        "яблоко, ежевика, сахарная пудра",
+        "D:\\Projects and Documents\\Documents\\Projects\\Python Projects\\Parsing\\NashPir\\components\\Results\\images1\\chernika-300x300.jpg",
+        "1000г",
+        "950р"
+    ],
+    "Сладкий пирог с черникой": [
+        "черника, сахарная пудра",
+        "D:\\Projects and Documents\\Documents\\Projects\\Python Projects\\Parsing\\NashPir\\components\\Results\\images1\\chernika-300x300.jpg",
+        "1000г",
+        "1200р"
+    ],
+    "Сладкий пирог с яблоком и вишней": [
+        "яблоко, вишня, сахарная пудра",
+        "D:\\Projects and Documents\\Documents\\Projects\\Python Projects\\Parsing\\NashPir\\components\\Results\\images1\\chernika-300x300.jpg",
+        "1000г",
+        "950р"
+    ],
+    "Сладкий пирог с яблоком и малиной": [
+        "яблоко, малина, сахарная пудра",
+        "D:\\Projects and Documents\\Documents\\Projects\\Python Projects\\Parsing\\NashPir\\components\\Results\\images1\\chernika-300x300.jpg",
+        "1000г",
+        "950р"
+    ],
+    "Сладкий пирог с яблоком": [
+        "яблоки, сахарная пудра",
+        "D:\\Projects and Documents\\Documents\\Projects\\Python Projects\\Parsing\\NashPir\\components\\Results\\images1\\Сладкие-пироги-с-яблоками-.-1-кг-650р-300x300.jpg",
+        "1000г",
+        "850р"
+    ]
+}
